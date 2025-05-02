@@ -1,4 +1,4 @@
-# 🎮 Hey there, I'm RUDRA!
+# 🎮 Hey there, I'm RUDRA !
 
 Welcome to my GitHub! I'm a passionate **Game Developer** who loves building immersive and interactive experiences using **Unity** and **C#**.
 
