@@ -1,4 +1,4 @@
-# 🎮 Hey there, I'm [Your Name]!
+# 🎮 Hey there, I'm [RUDRA]!
 
 Welcome to my GitHub! I'm a passionate **Game Developer** who loves building immersive and interactive experiences using **Unity** and **C#**.
 
@@ -6,12 +6,12 @@ Welcome to my GitHub! I'm a passionate **Game Developer** who loves building imm
 
 ## 🧠 About Me
 
-- 🔭 Currently developing: **[Your current game/project name]**
+- 🔭 Currently developing: **[SOLO 1.01]**
 - 🧱 Game Engine of choice: **Unity**
-- 🕹️ Favorite genres to build: **Platformers, Puzzle games, Action-RPGs**
+- 🕹️ Favorite genres to build: **Platformers, Puzzle games, Action-RPGs, FPS**
 - 🧠 Learning more about: **Shader Graph, DOTS, and Multiplayer Networking**
-- 📫 Reach me at: **[your.email@example.com]**
-- ⚡ Fun fact: I once recreated [classic game] in Unity just for fun!
+- 📫 Reach me at: **[https://discord.gg/JTnS3Hjs]**
+- ⚡ Fun fact: I once recreated [Far Cry] in Unity just for fun! :)
 
 ---
 
@@ -36,13 +36,11 @@ Welcome to my GitHub! I'm a passionate **Game Developer** who loves building imm
 
 ## 🕹 Featured Projects
 
-- 🎯 **[Project Name]** – [Short description + link to repo or playable build]
-- 🧩 **[Another Game]** – [Description + itch.io/Steam link if applicable]
-- 🛠️ Check out more in the pinned repositories!
+- 🎯 **[Projects Coming Soon!!]**
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://yourname.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudrapratap-therokar-774b5a331/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://gg-rudra.itch.io)
