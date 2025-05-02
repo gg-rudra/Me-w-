@@ -1,4 +1,4 @@
-# 🎮 Hey there, I'm [RUDRA]!
+# 🎮 Hey there, I'm RUDRA!
 
 Welcome to my GitHub! I'm a passionate **Game Developer** who loves building immersive and interactive experiences using **Unity** and **C#**.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate **Game Developer** who loves building imm
 - 🕹️ Favorite genres to build: **Platformers, Puzzle games, Action-RPGs, FPS**
 - 🧠 Learning more about: **Shader Graph, DOTS, and Multiplayer Networking**
 - 📫 Reach me at: **[https://discord.gg/JTnS3Hjs]**
-- ⚡ Fun fact: I once recreated [Far Cry] in Unity just for fun! :)
+- ⚡ Fun fact: I once recreated Far Cry(small poly version) in Unity just for fun!
 
 ---
 
@@ -22,7 +22,9 @@ Welcome to my GitHub! I'm a passionate **Game Developer** who loves building imm
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ---
 
 ## 📈 GitHub Stats
