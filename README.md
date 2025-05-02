@@ -48,5 +48,4 @@ Welcome to my GitHub! I'm a passionate **Game Developer** who loves building imm
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudrapratap-therokar-774b5a331/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://gg-rudra.itch.io)
-[![Discord]( https://postimg.cc/21MLxgdr )](https://discord.gg/7PB2wEQs)
-
+[![Discord](img src='https://i.postimg.cc/21MLxgdr/image-2025-05-02-155018151.png')](https://discord.gg/7PB2wEQs)
