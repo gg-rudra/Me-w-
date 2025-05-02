@@ -1,33 +1,48 @@
-# 👋 Hi, I'm [Your Name]
+# 🎮 Hey there, I'm [Your Name]!
 
-Welcome to my GitHub profile! I'm a [Your Role/Profession] with a passion for [your interests like web development, open-source, machine learning, etc.].
+Welcome to my GitHub! I'm a passionate **Game Developer** who loves building immersive and interactive experiences using **Unity** and **C#**.
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently working on: [Your current project or focus]
-- 🌱 I’m currently learning: [Frameworks, tools, or languages you're exploring]
-- 👯 I’m looking to collaborate on: [Type of projects or technologies]
-- 💬 Ask me about: [Your expertise areas]
-- 📫 How to reach me: [Email or social link]
-- ⚡ Fun fact: [A fun or quirky detail about you]
+## 🧠 About Me
 
-## 🛠️ Tech Stack
+- 🔭 Currently developing: **[Your current game/project name]**
+- 🧱 Game Engine of choice: **Unity**
+- 🕹️ Favorite genres to build: **Platformers, Puzzle games, Action-RPGs**
+- 🧠 Learning more about: **Shader Graph, DOTS, and Multiplayer Networking**
+- 📫 Reach me at: **[your.email@example.com]**
+- ⚡ Fun fact: I once recreated [classic game] in Unity just for fun!
 
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css,react,python,nodejs,mongodb,postgres,git,github,linux)
+---
+
+## 🔧 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+## 🕹 Featured Projects
+
+- 🎯 **[Project Name]** – [Short description + link to repo or playable build]
+- 🧩 **[Another Game]** – [Description + itch.io/Steam link if applicable]
+- 🛠️ Check out more in the pinned repositories!
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://yourname.)
