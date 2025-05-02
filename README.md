@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate **Game Developer** who loves building imm
 - 🧱 Game Engine of choice: **Unity**
 - 🕹️ Favorite genres to build: **Platformers, Puzzle games, Action-RPGs, FPS**
 - 🧠 Learning more about: **Shader Graph, DOTS, and Multiplayer Networking**
-- 📫 Reach me at: **[https://discord.gg/JTnS3Hjs]**
+- 📫 Reach me at: **[https://discord.gg/7PB2wEQs]**
 - ⚡ Fun fact: I once recreated Far Cry(small poly version) in Unity just for fun!
 
 ---
@@ -48,3 +48,4 @@ Welcome to my GitHub! I'm a passionate **Game Developer** who loves building imm
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudrapratap-therokar-774b5a331/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://gg-rudra.itch.io)
+[![Discord](https://ibb.co/99t6RtT3)](https://discord.gg/7PB2wEQs)
